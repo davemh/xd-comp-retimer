@@ -11,7 +11,7 @@
 // Install via File -> Scripts -> Install Script File...
 
 (function changeCompFramerate() {
-    var targetFramerate = 24; // <-- set desired fps here
+    var targetFramerate = 24; // <-- specify desired framerate for all comps here
     var changedCount = 0;
 
     app.beginUndoGroup("Change Comp Framerates");
