@@ -1,5 +1,5 @@
 # xd-comp-retimer
-Batch-converts all comps in an AE project to 24fps. Handy when working with layouts pushed to After Effects using Adobe XD's "Export to After Effects" feature, which tends to create an unwieldy number of precomps, all set to the inexplicable default framerate of 60fps.
+Batch-converts all comps in an AE project to 24fps*. Handy when working with layouts pushed to After Effects using Adobe XD's "Export to After Effects" feature, which tends to create an unwieldy number of precomps, all set to the inexplicable default framerate of 60fps.
 
 The 24fps target framerate is hard-coded\*, but you can edit source (location is commented) and change it to whatever you'd like.
 
